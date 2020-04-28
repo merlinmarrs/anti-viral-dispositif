@@ -1,0 +1,35 @@
+// Fablab Digiscope //
+// Anti-Viral Rev.1 Blink Test Code //
+// 04/2020 //
+
+// Target: Atmega 328P //
+
+#define F_CPU 8000000 // I also disable the CLKDIV8 fuse //
+
+#include <avr/io.h>
+
+#include <util/delay.h> // because I'm using _delay_ms() //
+ 
+int main(void)
+{
+        DDRD = 0b11111111; // All port D pins set to output
+        DDRB = 0b11111111; // All port B pins set to output
+
+    while (1) // while value inside the brackets is non-zero,
+    {
+        PORTD = 0b00000000; // 
+        PORTB = 0b00000010; // ERROR LED ON
+        _delay_ms(1000); //1000ms = 1 second
+
+        PORTB = 0b00000000; // 
+        PORTD = 0b10000000; //  TIME LED ON
+        _delay_ms(1000); //1000ms = 1 second
+
+         
+        PORTD = 0b00000000; //  
+        PORTB = 0b00000001; // TEMP LED ON
+        _delay_ms(1000);  //1000ms = 1 second 
+    
+    }
+    return (0);
+}
