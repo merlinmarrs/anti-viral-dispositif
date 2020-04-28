@@ -4,6 +4,8 @@ Developed by Fablab Digiscope, France
 
 A main board and secondary board to control a disinfection chamber based on this tutorial: http://www.needlab.org/face-masks-disinfection-device
 
+The PDF shows step by step instructions of the assembly.
+
 Here is the BOM:
 
 Standard components:
