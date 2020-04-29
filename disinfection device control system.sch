@@ -8027,25 +8027,25 @@ thin small outline package</description>
 <part name="RX" library="SparkFun-Connectors" deviceset="TEST-POINT" device="3" value=""/>
 <part name="FRAME1" library="SparkFun-Retired" deviceset="FRAME-A3" device=""/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
-<part name="R8" library="adafruit" deviceset="R-US_" device="R1206" value="180ohm"/>
-<part name="R9" library="adafruit" deviceset="R-US_" device="R1206" value="180ohm"/>
+<part name="R8" library="adafruit" deviceset="R-US_" device="R1206" value="68ohm"/>
+<part name="R9" library="adafruit" deviceset="R-US_" device="R1206" value="68ohm"/>
 <part name="DIS1" library="display-hp" deviceset="HD-A103" device=""/>
-<part name="R2" library="adafruit" deviceset="R-US_" device="R1206" value="180ohm"/>
-<part name="R4" library="adafruit" deviceset="R-US_" device="R1206" value="180ohm"/>
-<part name="R5" library="adafruit" deviceset="R-US_" device="R1206" value="180ohm"/>
-<part name="R6" library="adafruit" deviceset="R-US_" device="R1206" value="180ohm"/>
-<part name="R7" library="adafruit" deviceset="R-US_" device="R1206" value="180ohm"/>
-<part name="R10" library="adafruit" deviceset="R-US_" device="R1206" value="180ohm"/>
-<part name="R11" library="adafruit" deviceset="R-US_" device="R1206" value="180ohm"/>
+<part name="R2" library="adafruit" deviceset="R-US_" device="R1206" value="68ohm"/>
+<part name="R4" library="adafruit" deviceset="R-US_" device="R1206" value="68ohm"/>
+<part name="R5" library="adafruit" deviceset="R-US_" device="R1206" value="68ohm"/>
+<part name="R6" library="adafruit" deviceset="R-US_" device="R1206" value="68ohm"/>
+<part name="R7" library="adafruit" deviceset="R-US_" device="R1206" value="68ohm"/>
+<part name="R10" library="adafruit" deviceset="R-US_" device="R1206" value="68ohm"/>
+<part name="R11" library="adafruit" deviceset="R-US_" device="R1206" value="68ohm"/>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
 <part name="DIS2" library="display-hp" deviceset="HD-A103" device=""/>
-<part name="R12" library="adafruit" deviceset="R-US_" device="R1206" value="180ohm"/>
-<part name="R13" library="adafruit" deviceset="R-US_" device="R1206" value="180ohm"/>
-<part name="R14" library="adafruit" deviceset="R-US_" device="R1206" value="180ohm"/>
-<part name="R15" library="adafruit" deviceset="R-US_" device="R1206" value="180ohm"/>
-<part name="R16" library="adafruit" deviceset="R-US_" device="R1206" value="180ohm"/>
-<part name="R17" library="adafruit" deviceset="R-US_" device="R1206" value="180ohm"/>
-<part name="R18" library="adafruit" deviceset="R-US_" device="R1206" value="180ohm"/>
+<part name="R12" library="adafruit" deviceset="R-US_" device="R1206" value="68ohm"/>
+<part name="R13" library="adafruit" deviceset="R-US_" device="R1206" value="68ohm"/>
+<part name="R14" library="adafruit" deviceset="R-US_" device="R1206" value="68ohm"/>
+<part name="R15" library="adafruit" deviceset="R-US_" device="R1206" value="68ohm"/>
+<part name="R16" library="adafruit" deviceset="R-US_" device="R1206" value="68ohm"/>
+<part name="R17" library="adafruit" deviceset="R-US_" device="R1206" value="68ohm"/>
+<part name="R18" library="adafruit" deviceset="R-US_" device="R1206" value="68ohm"/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
 <part name="D2" library="SparkFun-LED" deviceset="LED-RED" device="1206" value="TEMP"/>
 <part name="U1" library="SparkFun-Sensors" deviceset="MLX90614" device=""/>
@@ -8097,7 +8097,7 @@ thin small outline package</description>
 <part name="R33" library="adafruit" deviceset="R-US_" device="R1206" value="JMP"/>
 <part name="R34" library="adafruit" deviceset="R-US_" device="R1206" value="JMP"/>
 <part name="D3" library="SparkFun-LED" deviceset="LED-RED" device="1206" value="TEMP"/>
-<part name="R35" library="adafruit" deviceset="R-US_" device="R1206" value="180ohm"/>
+<part name="R35" library="adafruit" deviceset="R-US_" device="R1206" value="68ohm"/>
 </parts>
 <sheets>
 <sheet>
